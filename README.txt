@@ -1,4 +1,4 @@
-James R. Klau Portfolio Website
+# James R. Klau Portfolio Website
 This website is a personal portfolio of James R. Klau, showcasing his professional work and experiences as a software developer. The website is publicly available at https://jamesrklau.github.io/Portfolio/.
 
 Technologies Used
