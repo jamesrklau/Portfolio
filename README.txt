@@ -1,32 +1,34 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+James R. Klau Portfolio Website
+This website is a personal portfolio of James R. Klau, showcasing his professional work and experiences as a software developer. The website is publicly available at https://jamesrklau.github.io/Portfolio/.
 
+Technologies Used
+The website was built using the following technologies:
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+HTML
+CSS
+JavaScript
+Bootstrap
+Website Structure
+The website consists of the following pages:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Home page
+About page
+Portfolio page
+Contact page
+Home Page
+The home page serves as an introduction to the website and features a brief summary of James R. Klau's professional experience and skills. It also includes links to his social media profiles and a downloadable resume.
 
-(* = not included)
+About Page
+The about page provides a more detailed overview of James R. Klau's professional background, education, and technical skills. It also includes a section on his personal interests and hobbies.
 
-AJ
-aj@lkn.io | @ajlkn
+Portfolio Page
+The portfolio page showcases some of James R. Klau's notable software development projects. Each project is presented with a brief description and links to its source code and live demo (if applicable).
 
+Contact Page
+The contact page includes a contact form that visitors can use to send a message to James R. Klau. It also includes links to his social media profiles and email address.
 
-Credits:
+Contributions
+This website is a personal project of James R. Klau and is not currently open to contributions from external contributors.
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+License
+The code for this website is available under the MIT License
